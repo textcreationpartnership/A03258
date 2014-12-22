@@ -35,11 +35,28 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The late Lancashire vvitches A well received comedy, lately acted at the Globe on the Banke-side, by
+
+1. THE PROLOGVE.
+
 #####Body#####
-The late Lancashire vvitches A well received comedy, lately acted at the Globe on the Banke-side, by
+
+1. ACTVS, I.
+SCENA, I.
+
+1. ACTVS, II. SCAENA, I.
+
+1. ACTVS, III. SCENA, I.
+
+1. ACTVS, IIII. SCAENA, I.
+
+1. ACTVS, V. SCENA, I.
+
 #####Back#####
-The late Lancashire vvitches A well received comedy, lately acted at the Globe on the Banke-side, by
+
+1. Song. II. Act.
+
+1. THE EPILOGVE.
+
 **Types of content**
 
   * There are 1004 **verse** lines!
